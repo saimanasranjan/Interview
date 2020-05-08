@@ -26,4 +26,4 @@
  basic auth -amresh and amresh2020 
  
  
- config in url is the domain name.otherthan amresh.it wont work and throw error in log.
+ config in url is the domain name.otherthan config as domain name .it wont work and throw error in log.
